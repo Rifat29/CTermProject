@@ -1,0 +1,20 @@
+﻿Build started 11-Sep-16 11:27:38 AM.
+     1>Project "F:\1405053_1405056_Snake\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\1405053_1405056_Snake\Debug\IGraphics.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\IGraphics.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\1405053_1405056_Snake\Debug\IGraphics.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\1405053_1405056_Snake\Debug\IGraphics.lib" /MACHINE:X86 Debug\testSnake.obj
+         LINK : F:\1405053_1405056_Snake\Debug\IGraphics.exe not found or not built by the last incremental link; performing full link
+         IGraphics.vcxproj -> F:\1405053_1405056_Snake\Debug\IGraphics.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\1405053_1405056_Snake\Debug\IGraphics.exe;#1" /manifest Debug\IGraphics.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "F:\1405053_1405056_Snake\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.90
